@@ -3,7 +3,7 @@
 
 
 
-*Lang .
+* Lang .
 1 1 Java	17.856%	-3.12%
 2	2		C	8.726%	-7.73%
 3	3		C++	5.335%	-0.61%
@@ -24,6 +24,33 @@
 18	16	-	MATLAB	1.818%	+0.65%
 19	24	++	Groovy	1.786%	+1.01%
 20	19	-	PL/SQL
+# simple-discord.js-bot
+A simple discord bot free and easy to use ! Enjoy !
+
+# Simple discord bot template
+* Really easy to use and free ! 
+
+## Start:
+
+* Download all the files and extract them
+
+
+## Usage :
+* Complete ``config.json``
+
+Then
+
+* ``npm install``
+
+Then :
+
+* ``node index.js``
+
+
+
+## Authors
+
+* **natrix [@natrixdev](github.com/natrixdev)**
 
 not op.src
 
